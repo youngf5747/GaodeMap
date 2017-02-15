@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GaodeMap</string>
+    <string name="txtlng">经度:</string>
+    <string name="txtlat">纬度:</string>
+    <string name="lng">113.395563</string>
+    <string name="lat">23.126222</string>
+    <string name="loc">定位</string>
+    <string name="manul">手动</string>
+    <string name="gps">GPS</string>
+    <string name="location">地址:</string>
+    <string name="search">查询</string>
+    <string name="satellite">卫星地图</string>
+    <string name="normal">普通地图</string>
+</resources>

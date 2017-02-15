@@ -1,0 +1,1 @@
+include ':app', ':mynavigation', 'AMap3DDemo', 'AMapLocationDemo', ':NaviDemo'
